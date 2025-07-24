@@ -1,4 +1,4 @@
-## ci=ommands need to be follow
+## commands need to be follow
 
 ## below command is for windows (CMD)
 
