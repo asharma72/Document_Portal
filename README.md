@@ -46,3 +46,16 @@ git commit -m "first commit"
 git push
 ....
 
+
+....
+## minimum requirement for this projet
+
+1. LLM Model ## frm GEOQ,openai,gemini, claude,hugging face,ollama
+
+2. Embedding Model ## from GEOQ,openai, hugging face, ollama
+
+3. Vector DB ## from GEOQ,chroma, pinecone, opensearch, elasticsearch, vectorDB (in-memory or clodebase)
+
+
+
+
